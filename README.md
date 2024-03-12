@@ -54,5 +54,3 @@ If you would like to contribute to this project, please fork the repository and 
 
 Issues
 If you encounter any issues or have suggestions for improvement, please open an issue on the GitHub repository.
-
-Li
